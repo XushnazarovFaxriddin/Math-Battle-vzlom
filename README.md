@@ -2,7 +2,6 @@
 ## Matematika jangi oʻyinida aldash uchun C# loyihasi (Telegram).
 <br>
 <hr>
-<div dir="rtl">
      <h3>Math Battle Telegram </h3>
      <br>
      <span>Ishlatish:</span>
@@ -14,4 +13,3 @@
      <span>Stop toʻxtash</span>
      <br>
          ...</li>
-   </div>
