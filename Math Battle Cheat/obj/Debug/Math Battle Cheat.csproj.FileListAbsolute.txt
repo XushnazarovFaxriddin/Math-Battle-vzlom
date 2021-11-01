@@ -1,0 +1,46 @@
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe.config
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.pdb
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Form1.resources
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Properties.Resources.resources
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.GenerateResource.Cache
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\source\repos\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.pdb
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe.config
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\bin\Debug\Math Battle Cheat.pdb
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Form1.resources
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Properties.Resources.resources
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.GenerateResource.Cache
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.exe
+C:\Users\Mohammad Reza\Desktop\Math Battle Cheat\Math Battle Cheat\obj\Debug\Math Battle Cheat.pdb
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe.config
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Math Battle Cheat.exe
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Math Battle Cheat.pdb
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.AssemblyReference.cache
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Form1.resources
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math_Battle_Cheat.Properties.Resources.resources
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.GenerateResource.cache
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.CoreCompileInputs.cache
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math Battle Cheat.exe
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math Battle Cheat.pdb
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\bin\Debug\WebDriver.dll
+D:\MathBattle\Math-Battle-Chaet-master\Math-Battle-Chaet-master\Math Battle Cheat\obj\Debug\Math Battle Cheat.csproj.CopyComplete
